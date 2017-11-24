@@ -1,0 +1,32 @@
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
